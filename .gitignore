@@ -1,0 +1,6 @@
+# Virtual environment
+nlp_env/
+
+# Python bytecode files
+*.pyc
+__pycache__/
